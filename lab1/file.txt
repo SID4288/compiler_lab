@@ -1,0 +1,8 @@
+int main() {
+    int count = 1;
+    int limit = 5;
+    if (count == limit) {
+        return 0;
+    }
+    return count;
+}
